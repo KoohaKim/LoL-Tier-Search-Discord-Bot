@@ -1,8 +1,9 @@
 # 롤 티어캣 디스코드 봇
 
-**티어캣**은 Discord에서 롤 티어 정보를 조회하고 태그 기능을 제공하는 봇입니다.
+**티어캣**은 Discord에서 롤 티어 정보를 조회하고 태그 기능을 제공하는 봇입니다.  
+![image](https://github.com/KoohaKim/LoL-Tier-Search-Discord-Bot/assets/131418584/d9c56773-feff-40c5-8699-e1134d1dfb22)
 
-(https://github.com/KoohaKim/LoL-Tier-Search-Discord-Bot/assets/131418584/14e73100-1d6a-46d3-a56e-5c5b4916ac11)
+
 
 ## 기능
 
@@ -21,5 +22,5 @@
    ```plaintext
    DISCORD_BOT_TOKEN=YOUR_DISCORD_TOKEN
    RIOT_API_KEY=YOUR_RIOT_API_KEY
-
-(https://github.com/KoohaKim/LoL-Tier-Search-Discord-Bot/assets/131418584/837492d4-0188-41d7-90eb-53495c0ce5c3)
+  
+![image](https://github.com/KoohaKim/LoL-Tier-Search-Discord-Bot/assets/131418584/d30bb072-fbde-4521-b7df-32dc2981b9be)
